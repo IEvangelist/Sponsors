@@ -15,10 +15,22 @@
 
 ![OzCode](https://player.vimeo.com/video/327045936)
 
+---
+
+@snap[west span-100]
+# 😁 @css[vs](3x @color[red](@fa[award]))
+@snapend
+
 ---?image=https://revdebug.com/wp-content/uploads/2018/10/RevDeBug-4k-transparent-logo-nomargin.png&size=auto 30%
 ---
 
 ![RevDeBug](https://www.youtube.com/embed/67ZDTEC9yqM)
+
+---
+
+@snap[west span-100]
+# 😁 @css[vs](3x @color[red](@fa[award]))
+@snapend
 
 ---?image=https://www.whitesourcesoftware.com/wp-content/uploads/2016/06/whitesource_logo_rgb-02.png&size=auto 38%
 ---
