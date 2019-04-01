@@ -1,0 +1,1 @@
+docker container stop sponsors && docker container rm sponsors
