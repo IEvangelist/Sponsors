@@ -58,8 +58,8 @@ __WhiteSource__ is the leader in open source security and license compliance man
 
  - .NET Developer
  - Senior .NET Developer
- - Data Science Practice Lead
  - Director of Business Development
+ - Data Science Practice Lead
  - Front End Developer In Test
  - Java Developer
 
@@ -72,6 +72,14 @@ __WhiteSource__ is the leader in open source security and license compliance man
 ---
 
 @snap[west span-100]
-## @css[vs](Social Media)
-@color[#1da1f2](@fa[twitter] @Centare #VS2019)
+## @css[vs](Social Media @color[#1da1f2](@fa[twitter]))
+
+@ul[no-bullets](false)
+
+ - @color[#1da1f2](@Centare)
+ - @color[#1da1f2](@VisualStudio)
+ - @color[#1da1f2](#VS2019)
+ - @color[#1da1f2](#DeveloperCommunity)
+
+@ulend
 @snapend
