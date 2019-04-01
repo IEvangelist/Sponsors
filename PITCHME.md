@@ -56,7 +56,6 @@ __WhiteSource__ is the leader in open source security and license compliance man
 
 @ul[square span-100](false)
 
- - .NET Developer
  - Senior .NET Developer
  - Director of Business Development
  - Data Science Practice Lead
