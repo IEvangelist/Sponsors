@@ -3,7 +3,7 @@ remote-control: true
 remote-control-prevkey: 38
 remote-control-nextkey: 40
 highlight: an-old-hope
-background : assets/VS_SiteHeader.jpg
+background : assets/vs-background.jpg
 background-size : auto 90%
 eager-loading: true
 published: false

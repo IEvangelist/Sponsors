@@ -10,6 +10,11 @@
 ### @css[vs](Sponsors 🙏)
 @snapend
 
+---?image=assets/microsoft-logo.png&size=auto 45%
+---
+
+![Visual Studio 2019](https://www.youtube.com/embed/9XE8kOI5JTk)
+
 ---?image=https://oz-code.com/wp-content/uploads/2019/02/ozcode_logo_long.svg&size=auto 70%
 ---
 
@@ -21,7 +26,7 @@
 # 😁 @css[vs](3x @color[red](@fa[award]))
 @snapend
 
----?image=https://revdebug.com/wp-content/uploads/2018/10/RevDeBug-4k-transparent-logo-nomargin.png&size=auto 30%
+---?image=https://revdebug.com/wp-content/uploads/2018/10/RevDeBug-4k-transparent-logo-nomargin.png&size=auto 25%
 ---
 
 ![RevDeBug](https://www.youtube.com/embed/67ZDTEC9yqM)
@@ -32,7 +37,7 @@
 # 😁 @css[vs](3x @color[red](@fa[award]))
 @snapend
 
----?image=https://www.whitesourcesoftware.com/wp-content/uploads/2016/06/whitesource_logo_rgb-02.png&size=auto 38%
+---?image=https://www.whitesourcesoftware.com/wp-content/uploads/2016/06/whitesource_logo_rgb-02.png&size=auto 33%
 ---
 
 @snap[west span-70]
@@ -41,9 +46,32 @@ __WhiteSource__ is the leader in open source security and license compliance man
 <a href='www.whitesourcesoftware.com' target='_blank'>www.whitesourcesoftware.com</a>
 @snapend
 
+---?image=assets/centare-logo.png&size=auto 28%
+---
+
+@snap[west span-70]
+
+<h2>@css[vs](Careers) 🤘</h2>
+<br/>
+
+@ul[square span-100](false)
+
+ - .NET Developer
+ - Senior .NET Developer
+ - Data Science Practice Lead
+ - Director of Business Development
+ - Front End Developer In Test
+ - Java Developer
+
+@ulend
+
+<br/><br/>
+<a href='www.centare.com' target='_blank'>www.centare.com</a>
+@snapend
+
 ---
 
 @snap[west span-100]
 ## @css[vs](Social Media)
-@color[#0084b4](@fa[twitter] @Centare #VS2019)
+@color[#1da1f2](@fa[twitter] @Centare #VS2019)
 @snapend
