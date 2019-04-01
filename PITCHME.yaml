@@ -7,4 +7,5 @@ background : assets/VS_SiteHeader.jpg
 background-size : auto 90%
 eager-loading: true
 published: false
+title: "#VS2019 - Sponsors"
 theme-override: assets/styles.css
