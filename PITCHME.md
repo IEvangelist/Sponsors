@@ -1,6 +1,6 @@
 @snap[west span-100]
 ## @css[vs](Visual Studio 2019)
-### @css[vs](Launch Event)
+### @css[vs](Launch 🚀 Event)
 @snapend
 
 ---
