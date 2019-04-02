@@ -74,11 +74,11 @@ __WhiteSource__ is the leader in open source security and license compliance man
 
 | Time | Presenter | Details |
 |--:|:--|:--|
-| __8:30__ | Host | Register + @color[blue](`this`) |
+| __8:30__ | Host | ☕ + 🍩 = Morning Registration |
 | __9:00__ | Scott Addie | Building Real-time Web w/ ASP.NET Core SignalR |
 | __10:00__ | David Pine | What's new in C# 8 |
 | __11:00__ | Scott Addie | Protecting App Secrets w/ .NET Core & Azure |
-| __🕛__ | -- | Lunch + Cake 🎂 |
+| __🕛__ | -- | 🍕 + 🎂 = Lunch |
 | __1:30__ | Lance Larsen | VS 2019 + Unity + Azure Spatial Anchors + Mixed Reality |
 | __2:30__ | Carl Schweitzer | Enabling Edge Intelligence with Azure IoT |
 | __3:30__ | Host | Raffle Licenses & Networking |
