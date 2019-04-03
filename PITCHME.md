@@ -22,17 +22,16 @@ https://fallexperiment.com/
 ### @css[vs](Sponsors & Supporters)
 @snapend
 
----?image=assets/teals.png&position=right&size=45% 100%&color=rgb(68,114,196)
+---?image=assets/teals.png&position=right&size=45% 100%&color=navy
 
 @snap[north-west logo-img ms-logo span-55]
 ![Microsoft](assets/microsoft-white-logo.png)
 
 ### @color[cyan](TEALS) Program
-<br/>
-@size[2.2rem](_Computer Science_ professionals @color[whitesmoke](+) _High School_ teachers working together to build and grow CS programs 👏)
+@size[2.8rem](Computer Science professionals @color[yellow](+) High School teachers working together to build and grow CS programs 👏)
 <br/><br/>
-@size[1.9rem](__Apply: &nbsp; @color[black](www.tealsk12.org)__)<br/>
-@size[1.9rem](__Mark Zachar, &nbsp; @color[black](markz@tealsk12.org)__)
+@size[2rem](__Apply: &nbsp; www.tealsk12.org__)<br/>
+@size[2rem](__Mark Zachar, &nbsp; markz@tealsk12.org__)
 
 @snapend
 
