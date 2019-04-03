@@ -96,11 +96,11 @@ __WhiteSource__ is the leader in open source security and license compliance man
 
 ---?image=assets/white.png
 
-### @css[vs](Agenda) 📋 ... (Take A 📸 Of This)
+### @css[vs](Agenda) 📋 ... (@size[3rem](take a 📸, it'll last longer))
 
 | Time | Presenter | Details |
 |--:|:--|:--|
-| __8:30__ | Host | ☕ + 🍩 = Morning Registration |
+| __8:30__ | Host | ☕ + 🥯 = Morning Registration |
 | __9:00__ | Scott Addie | Building Real-time Web w/ ASP.NET Core SignalR |
 | __10:00__ | David Pine | What's new in C# 8 |
 | __11:00__ | Scott Addie | Protecting App Secrets w/ .NET Core & Azure |
