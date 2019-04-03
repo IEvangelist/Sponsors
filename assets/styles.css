@@ -27,3 +27,35 @@ thead > tr {
     background-color: #333 !important;
     color: #f2f2f2 !important;
 }
+
+.logo-img > img {
+    background: none !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.ms-logo {
+    height: 60px;
+}
+
+.fallx-logo {
+    height: 140px;
+}
+
+.ccc {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+    font-size: 7rem !important;
+    font-weight: 900;
+}
+
+.ccc-cream {
+color: #ECD290;
+}
+
+.ccc-orange {
+color: #F15322;
+}
+
+.ccc-blue {
+color: #688B8B;
+}

@@ -3,11 +3,37 @@
 ### @css[vs](Launch 🚀 Event)
 @snapend
 
+---?image=assets/white.png
+
+@snap[logo-img fallx-logo span-100]
+## @css[vs](Community Update 😎)
+<br/>
+@css[ccc](@color[#ECD290](Cream) @color[#F15322](City) @color[#688B8B](Code) +)
+![FallX](assets/fallx-logo.png)
+<br/><br/>
+https://fallexperiment.com/
+
+@snapend
+
 ---
 
 @snap[west span-100]
-## @css[vs](Thank you)
-### @css[vs](Sponsors 🙏)
+## @css[vs](Thank you 🙏)
+### @css[vs](Sponsors & Supporters)
+@snapend
+
+---?image=assets/teals.png&position=right&size=45% 100%&color=rgb(68,114,196)
+
+@snap[north-west logo-img ms-logo span-55]
+![Microsoft](assets/microsoft-white-logo.png)
+
+### TEALS Program
+<br/>
+@size[2rem](Computer Science professionals @color[magenta](+) High School teachers working together to build and grow CS programs 👏)
+<br/><br/>
+@size[1.7rem](__Apply: @color[cyan](www.tealsk12.org)__)<br/>
+@size[1.7rem](Mark Zachar, @color[cyan](markz@tealsk12.org))
+
 @snapend
 
 ---?image=assets/microsoft-logo.png&size=auto 45%
@@ -70,7 +96,7 @@ __WhiteSource__ is the leader in open source security and license compliance man
 
 ---?image=assets/white.png
 
-### @css[vs](Agenda) 📋
+### @css[vs](Agenda) 📋 ... (Take A 📸 Of This)
 
 | Time | Presenter | Details |
 |--:|:--|:--|
